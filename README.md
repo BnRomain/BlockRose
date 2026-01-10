@@ -37,11 +37,15 @@ Le développement a été interrompu pour des raisons personnelles indépendante
 Quelques extraits du brand book utilisé pour le projet :
 
 <p align="center">
-  <img src="assets/brandbook/typographie.png" alt="Règles typographiques" width="600">
+  <img src="img/typo.png" alt="Règles typographiques" width="600">
 </p>
 
 <p align="center">
-  <img src="assets/brandbook/couleurs.png" alt="Palette de couleurs" width="600">
+  <img src="img/couleur.png" alt="Palette de couleurs" width="600">
+</p>
+
+<p align="center">
+  <img src="img/ilus.png" alt="Illustrations" width="600">
 </p>
 
 Ces éléments ont servi de base pour l’ensemble des choix graphiques et de mise en page.
@@ -53,13 +57,17 @@ Ces éléments ont servi de base pour l’ensemble des choix graphiques et de mi
 ### 🏠 Page d’accueil
 
 <p align="center">
-  <img src="assets/screens/homepage.png" alt="Page d’accueil Block Rose" width="700">
+  <img src="img/accueil.png" alt="Page d’accueil Block Rose" width="700">
 </p>
 
 ### 📦 Page catalogue / contenu
 
 <p align="center">
-  <img src="assets/screens/catalogue.png" alt="Catalogue Block Rose" width="700">
+  <img src="img/materiel.png" alt="Catalogue Block Rose" width="700">
+</p>
+
+<p align="center">
+  <img src="img/contact.png" alt="Page Contact" width="700">
 </p>
 
 L’ensemble du site respecte la hiérarchie visuelle définie dans le brand book, avec une attention particulière portée à la lisibilité et à la cohérence graphique.

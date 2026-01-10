@@ -121,4 +121,4 @@ Le travail présenté reste représentatif de la démarche, des compétences et 
 ## 👤 Auteur
 
 Projet réalisé par **Romain Ben**  
-🔗 LinkedIn : [romainben](www.linkedin.com/in/romainben)
+🔗 LinkedIn : [romainben](https://www.linkedin.com/in/romainben/)

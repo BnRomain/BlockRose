@@ -80,7 +80,7 @@ L’ensemble du site respecte la hiérarchie visuelle définie dans le brand boo
 
 Une courte vidéo présentant le site et ses principales sections est disponible ici :
 
-Lien : [Vidéo de présentation](https://youtu.be/TUHIGXEr61s)
+Lien : [Vidéo de présentation](https://youtu.be/TUHIGXEr61s) (40 secondes)
 
 ---
 

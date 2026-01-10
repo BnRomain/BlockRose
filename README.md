@@ -45,7 +45,7 @@ Quelques extraits du brand book utilisé pour le projet :
 </p>
 
 <p align="center">
-  <img src="img/ilus.png" alt="Illustrations" width="600">
+  <img src="img/illus.png" alt="Illustrations" width="600">
 </p>
 
 Ces éléments ont servi de base pour l’ensemble des choix graphiques et de mise en page.
@@ -65,6 +65,8 @@ Ces éléments ont servi de base pour l’ensemble des choix graphiques et de mi
 <p align="center">
   <img src="img/materiel.png" alt="Catalogue Block Rose" width="700">
 </p>
+
+### 📞 Page contact
 
 <p align="center">
   <img src="img/contact.png" alt="Page Contact" width="700">

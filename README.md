@@ -17,7 +17,7 @@ Le projet s’inscrit dans un cadre collaboratif avec un porteur de projet, qui 
 - des règles graphiques à respecter
 - une vision globale du site (positionnement, ambiance, style)
 
-Le développement a été interrompu pour des raisons personnelles indépendantes du projet, mais le code et le travail réalisés constituent une base fonctionnelle et représentative de mon approche front-end.
+Le développement a été interrompu car le porteur de projet n’avait plus besoin du site. Le code et le travail réalisés restent une base fonctionnelle et représentative de mon approche front-end.
 
 ---
 
@@ -94,7 +94,7 @@ Lien : [Vidéo de présentation](https://youtu.be/TUHIGXEr61s) (40 secondes)
 
 ---
 
-## ⚠️ Difficultés rencontrées
+## ⚠️ Apprentissages & ajustements
 
 - Traduire un **brand book théorique** en composants web concrets
 - Trouver un équilibre entre **créativité** et **respect strict des contraintes**
@@ -123,8 +123,8 @@ Ce projet m’a permis de :
 
 ## 📍 Statut du projet
 
-Projet arrêté avant finalisation complète pour des raisons personnelles externes.  
-Le travail présenté reste représentatif de la démarche, des compétences et de la méthodologie employées.
+Le projet a été interrompu car le porteur n’avait plus besoin du site.  
+Le travail réalisé reste représentatif de ma démarche, de mes compétences et de ma méthodologie front-end.
 
 ---
 

@@ -132,3 +132,4 @@ Le travail réalisé reste représentatif de ma démarche, de mes compétences e
 
 Projet réalisé par **Romain Ben**  
 🔗 LinkedIn : [romainben](https://www.linkedin.com/in/romainben/)
+📜 Email : romainben31@gmail.com

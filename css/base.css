@@ -1,0 +1,68 @@
+/* ====== base.css - Fondations du site ====== */
+
+/* Déclaration des polices */
+@font-face {
+    font-family: 'Tusker'; /* Choisis un nom */
+    src: url('../fonts/Tusker.otf') format('opentype'); /* adapte le chemin */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aeonik';
+    src: url('../fonts/Aeonik.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Reset général */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HTML et BODY */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFCE7;
+    font-family: 'Aeonik', sans-serif;
+    font-size: 16px;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+/* Liens */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Titres */
+h1, h2, h3, h4, h5, h6 {
+    color: #301B37;
+    font-weight: bold;
+    font-size: clamp(2rem, 4vw, 3rem);
+}
+
+/* Paragraphes */
+p {
+    color: #444;
+    line-height: 1.6;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Listes sans puces */
+ul {
+    list-style: none;
+}

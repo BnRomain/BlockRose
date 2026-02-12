@@ -1,0 +1,15 @@
+h2{
+    /* Titre de la page */
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    color: black;
+}
+
+p{
+    /* Paragraphe de la page */
+    font-size: 20px;
+    margin-top: 70px;
+    margin-left: 40px;
+    color: black;
+}

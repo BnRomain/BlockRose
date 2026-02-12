@@ -1,0 +1,104 @@
+/* ====== footer.css - Footer avec fade-in ====== */
+
+/* Footer principal */
+footer {
+    background-color: #052D23;
+    color: white;
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+    font-family: "Aeonik", sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    margin-top: auto;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.5s ease, transform 0.5s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Réseaux sociaux */
+.footer-socials {
+    margin-bottom: 5px;
+}
+
+.footer-socials a {
+    margin: 0 10px;
+    display: inline-block;
+}
+
+.footer-socials img {
+    width: 22px;
+    height: 22px;
+    filter: brightness(0) invert(1); /* pour mettre les logos en blanc */
+    transition: transform 0.3s;
+}
+
+.footer-socials img:hover {
+    transform: scale(1.2);
+}
+
+/* Liens */
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 5px;
+    color: #FF81E3;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-links a:hover {
+    color: #FF81E3;
+}
+
+/* Copyright */
+.footer-copy {
+    font-size: 0.8rem;
+}
+
+/* Responsive mobile */
+@media (max-width: 600px) {
+    .footer-links {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .footer-socials img {
+        width: 24px;
+        height: 24px;
+    }
+}
+
+/* Classe pour rendre le footer visible */
+footer.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Liens dans le footer */
+footer a {
+    color: #FF81E3;
+    text-decoration: none;
+    margin: 0 8px;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: #ffffff;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    footer {
+        font-size: 0.8rem;
+        padding: 15px 8px;
+    }
+}
